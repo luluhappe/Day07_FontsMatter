@@ -1,0 +1,8 @@
+body {background-color: darkcyan;}
+.card {background-color: pink;
+border:5px;border-color: blueviolet;
+border-style:solid;
+margin: 20px;
+padding: 15px}
+
+
